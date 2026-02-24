@@ -1,0 +1,5 @@
+bantu lah saya untuk menyelasaikan permasalahn in iberikan lah saya kode yang baru untuk menemukan solusi dari soal ini saya mengerjakan nya di java
+bantu lah saya cara unutk mengkompile nya
+apakah ada yang salah dengan kode saya?
+bantu saya untuk menemukan solusi dari  permasalan ini saya kurang mengerti untuk mengkompile nya 
+maksdnya di luar folder src
