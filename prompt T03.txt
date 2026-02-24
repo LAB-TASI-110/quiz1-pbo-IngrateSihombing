@@ -1,0 +1,4 @@
+saya ingin membuatsebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.jadi ini sistem nya kami dalam kampus ada 7 asrama yang dimana setiap 1 hari pasti ada penjemputan laundry dalam satu hari dan di kembalikan besok nya pada setiap asrama dengan hari yang berbeda bantu lah saya untuk membuat sebuah kode program  yang mendukung operasional sehari hari di laundry tersebut
+dan tentukan apakah nanti yang menjadi input dan output nya?
+atau adakah contoh lain yang mendukung operasional di laundry ini ?
+berikanlah saya  cara untuk menginput  d
