@@ -1,0 +1,8 @@
+bantu lah saya untuk menemukan solusi dari soal ini,dan berikan lah penjelasan kepada saya mengenai gambar yang sediakan ,apakah saya harus kasih gambar nya juga?
+berikut adalah gamabr pendukung untuk soal nya
+bantu lah saya untuk mengcompile nya dan berikan lah saya penjelasan dari kode tersebut apakah sudah sesuai?
+mengapa kode saya masih salah 
+berikan lah saya kode yang baru untuk menemukan solusi dari soal ini 
+berikan lah saya kode baru dengan publik class nya sudah driver1.java
+saat mengkompile nya error,bantu saya untuk mengatasi masalah ini 
+bantu lah saya untuk mengcompile nya dan berikan lah saya penjelasan dari kode tersebut apakah sudah sesuai?
